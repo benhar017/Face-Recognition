@@ -1,6 +1,6 @@
 # Face-Recognition
 Automatic attendance calculator using face detection
-This project was done with this fantastic “Open Source Computer Vision Library”, the OpenCV.
+This project was done with “Open Source Computer Vision Library”, the OpenCV.
 ### Mainly divided into 3 phases
 * Face Detection and Data Gathering
 * Training the data
